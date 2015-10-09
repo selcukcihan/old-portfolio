@@ -1,7 +1,7 @@
 
 # Site settings
 
-url: "http://panossakkos.github.io"
+url: "http://selcukcihan.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -16,12 +16,12 @@ google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
 # HTML Head #
 #############
 
-author: "John Smith"
+author: "Selçuk Cihan"
 lang: "en"
-title: "{ John Smith }"
+title: "{ Selçuk Cihan }"
 favicon: "/img/favicon.ico"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Resume website of Selçuk Cihan, software developer."
+keywords: "selcuk, cihan, personal, software, developer, resume"
 
 ################
 # Intro layout #
@@ -54,10 +54,10 @@ post-preview-words: 128
 
 paginate: 5
 
-fb-share: True
+fb-share: False
 twitter-share: True
-reddit-share: True
-disqus-shortname: "panossakkos"
+reddit-share: False
+disqus-shortname: "selcukcihan"
 
 ###############
 # Life Events #
