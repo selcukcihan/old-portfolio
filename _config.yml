@@ -1,4 +1,3 @@
-
 # Site settings
 
 url: "http://selcukcihan.github.io"
@@ -16,11 +15,11 @@ google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
 # HTML Head #
 #############
 
-author: "Sel�uk Cihan"
+author: "Selçuk Cihan"
 lang: "en"
-title: "{ Sel�uk Cihan }"
+title: "{ Selçuk Cihan }"
 favicon: "/img/favicon.ico"
-description: "Resume website of Sel�uk Cihan, software developer."
+description: "Resume website of Selçuk Cihan, software developer."
 keywords: "selcuk, cihan, personal, software, developer, resume"
 
 ################
@@ -44,7 +43,7 @@ start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Whereâ€™s your will to be weird?"
 
 ########
 # Blog #
