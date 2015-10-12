@@ -7,9 +7,9 @@ url: "http://selcukcihan.github.io"
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-baseurl: /
+baseurl: 
 
-google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
+google-tracking-id: "UA-68700480-1"
 
 #############
 # HTML Head #
@@ -17,8 +17,8 @@ google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
 
 author: "Selçuk Cihan"
 lang: "en"
-title: "{ Selçuk Cihan }"
-favicon: "/img/favicon.ico"
+title: "{ Selçuk Cİhan }"
+favicon: "/img/Favicon_250x250.ico"
 description: "Resume website of Selçuk Cihan, software developer."
 keywords: "selcuk, cihan, personal, software, developer, resume"
 
@@ -26,9 +26,10 @@ keywords: "selcuk, cihan, personal, software, developer, resume"
 # Intro layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
-background-img: "../img/intro-bg.jpg"
-me-img: "/img/jetpacktocat.png"
+#black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/Favicon_250x250.ico"
+background-img: "/img/prizren.jpg"
+me-img: "/img/profile.jpg"
 
 ##############################
 # Dynamic Text on the header #
@@ -42,56 +43,44 @@ type-speed:	10		# Default 10
 start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Whereâ€™s your will to be weird?"
-
-########
-# Blog #
-########
-
-post-preview-words: 128
-
-paginate: 5
-
-fb-share: False
-twitter-share: True
-reddit-share: False
-disqus-shortname: "selcukcihan"
+  - text: "Software development enthusiast..."
+  - text: "Hacker for life..."
 
 ###############
 # Life Events #
 ###############
 
 events:
-  - image: "/img/career/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/career/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/career/bpm.png"
+    date: "2013 - Today"
+    description: "Developing BPM suite"
+  - image: "/img/career/optimization.jpg"
+    date: "2012"
+    description: "Workforce Management Optimization"
+  - image: "/img/career/maxflow.jpg"
+    date: "2010"
+    description: "Defended MS thesis, a parallel max-flow algorithm"
+  - image: "/img/career/xface-j.jpg"
+    date: "2009"
+    description: "Ported C++ talking head library xface to Java"
+  - image: "/img/career/embedded.jpg"
+    date: "2008"
+    description: "Started coding as an embedded software developer"
 
 # First image of the Career timeline
-career-img: "/img/career/default.png"
-
-##################
-# Contact layout #
-##################
-
-email: "your@email.here"
+career-img: "/img/career/baby.jpg"
 
 ##################
 # Social Buttons #
 ##################
 
 social:
-  - title: "facebook"
-    url: "http://facebook.com/"
-  - title: "twitter"
-    url: "http://twitter.com/"
-  - title: "youtube"
-    url: "http://youtube.com/"
+  - title: "linkedin"
+    url: "http://linkedin.com/in/selcukcihan"
   - title: "github"
-    url: "https://github.com/"
+    url: "http://github.com/selcukcihan"
+  - title: "twitter"
+    url: "http://twitter.com/scihan"
   - title: "rss"
     url: "/feed.xml"
 
@@ -111,12 +100,8 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'blog'
   Career: 'career'
   Contact: 'contact'
-
-# Pagination path
-paginate_path: "blog/page:num"
 
 # Enable minification SASS
 sass:

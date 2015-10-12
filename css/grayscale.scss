@@ -163,6 +163,10 @@ ol {
 
         .intro-text {
             font-size: 18px;
+            color: #FEC503;
+            font-weight: bold;
+            top: -100px;
+            position: relative;
         }
     }
 }
@@ -375,6 +379,11 @@ body {
     -webkit-animation: blink 0.7s infinite;
     -moz-animation: blink 0.7s infinite;
     animation: blink 0.7s infinite;
+    font-size: 18px;
+    top: -105px;
+    position: relative;
+    font-weight: bold;
+    color: #FEC503;
 }
 @keyframes blink{
     0% { opacity:1; }
