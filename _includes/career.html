@@ -19,7 +19,11 @@
 
               <li class="{{ class }}">
                   <div class="timeline-image">
+                    {% if event.link == null %}
                       <img class="img-circle img-responsive" src="{{site.baseurl}}{{ event.image }}" alt="">
+                    {% else %}
+                      <a href="{{event.link}}" target="_blank"><img class="img-circle img-responsive" src="{{site.baseurl}}{{ event.image }}" alt=""></a>
+                    {% endif %}
                   </div>
                   <div class="timeline-panel">
                       <div class="timeline-heading">
