@@ -17,10 +17,10 @@ google-tracking-id: "UA-68700480-1"
 
 author: "Selçuk Cihan"
 lang: "en"
-title: "{ Selçuk Cİhan }"
+title: "Selçuk Cİhan"
 favicon: "/img/Favicon_250x250.ico"
 description: "Resume website of Selçuk Cihan, software developer."
-keywords: "selcuk, cihan, personal, software, developer, resume"
+keywords: "selcuk, cihan, personal, software, developer, resume, selçuk cİhan"
 
 ################
 # Intro layout #
@@ -103,6 +103,7 @@ social:
 pages_list:
   About: 'about'
   Career: 'career'
+  Miscellaneous: 'miscellaneous'
   Contact: 'contact'
 
 # Enable minification SASS
