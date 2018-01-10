@@ -51,8 +51,11 @@ lines:			# You can add HTML Tags in the Text
 ###############
 
 events:
+  - image: "/img/career/amzn.png"
+    date: "2017 - Today"
+    description: "Amazon UK - Earth's largest catalog"
   - image: "/img/career/bpm.png"
-    date: "2013 - Today"
+    date: "2013 - 2016"
     description: "Developing BPM suite"
   - image: "/img/career/optimization.jpg"
     date: "2012"
