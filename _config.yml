@@ -80,6 +80,8 @@ career-img: "/img/career/baby.jpg"
 ##################
 
 social:
+  - title: "wordpress"
+    url: "http://selcukcihan.wordpress.com"
   - title: "linkedin"
     url: "http://linkedin.com/in/selcukcihan"
   - title: "github"
