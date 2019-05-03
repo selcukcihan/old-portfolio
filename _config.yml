@@ -20,7 +20,7 @@ lang: "en"
 title: "Selçuk Cihan"
 favicon: "/img/Favicon_250x250.ico"
 description: "Resume website of Selçuk Cihan, software developer."
-keywords: "selcuk, cihan, personal, software, developer, resume, selçuk cihan, engineer, technologist, selcuk cihan"
+keywords: "selcuk, cihan, personal, software, developer, resume, selçuk cihan, engineer, technologist, selcuk cihan, serverless, cloud, architect"
 
 ################
 # Intro layout #
@@ -51,6 +51,9 @@ lines:			# You can add HTML Tags in the Text
 ###############
 
 events:
+  - image: "/img/career/lambda.png"
+    date: "2019 -"
+    description: '{serverless} Freelancing at <a href="https://www.toptal.com/resume/selcuk-cihan" target="_blank">Toptal</a>'
   - image: "/img/career/amzn.png"
     date: "2017 - 2018"
     description: "Amazon UK - Earth's largest catalog"
@@ -60,6 +63,7 @@ events:
   - image: "/img/career/optimization.jpg"
     date: "2012"
     description: "Workforce Management Optimization"
+    link: "https://www.bai.org/globalinnovations/awards/2017-winners/2017-internal-process-innovation-award"
   - image: "/img/career/maxflow.jpg"
     date: "2010"
     description: "Defended MS thesis, a parallel max-flow algorithm"
