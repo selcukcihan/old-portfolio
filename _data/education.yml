@@ -1,9 +1,21 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: <a href="http://www.cmpe.boun.edu.tr" target="_blank">Bogazici University</a>
+  dates: 2003-2008
+  qualification: BS. Computer Engineering (3.57/4)
   quote: >
-    Short institution or course description (optional)
+    Amongst the top universities in Turkey, BU has a lovely campus with spectacular views over the Bosphorus. 
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Studied wireless networks and computer vision in addition to the foundations of computer science. Graduated Cum Laude.
+
+- layout: left
+  name: <a href="http://www.cmpe.boun.edu.tr" target="_blank">Bogazici University</a>
+  dates: 2008-2010
+  qualification: MS. Computer Engineering (3.80/4)
+
+  description: | # this will include new lines to allow paragraphs
+    Research interests:
+      * Distributed systems
+      * Graph theory
+
+    Thesis titled *"Parallel maximum flow solver for multi-core machines"*.

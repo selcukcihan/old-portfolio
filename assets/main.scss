@@ -3,3 +3,7 @@
 ---
 
 @import 'modern-resume-theme';
+
+.cryptedmail:after {
+  content: attr(data-name) "@" attr(data-domain); 
+}

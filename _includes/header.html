@@ -69,6 +69,13 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.stackoverflow -%}
+          <li>
+            <a target="_blank" href="http://stackoverflow.com/users/{{ site.stackoverflow| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fa fa-stack-overflow" title="Stackoverflow link"></i>
+            </a>
+          </li>
+        {%- endif -%}
         {%- if site.youtube_username -%}
           <li>
             <a target="_blank" href="https://www.youtube.com/{{ site.youtube_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
@@ -85,9 +92,12 @@
         {%- endif -%}
       </ul>
 
-      {%- if site.email -%}
+      {%- if site.emailname -%}
         <p>
-          Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+          Email: <a href="#" class="cryptedmail"
+                   data-name="{{site.emailname}}"
+                   data-domain="{{site.emaildomain}}"
+                   onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain; return false;"></a>
         </p>
       {%- endif -%}
       {%- if site.phone -%}

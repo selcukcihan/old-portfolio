@@ -1,9 +1,19 @@
 <div class="container footer-container">
   <p>
     {{ site.name | escape }} -
-    <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+    <a href="#" class="cryptedmail"
+                   data-name="{{site.emailname}}"
+                   data-domain="{{site.emaildomain}}"
+                   onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain; return false;"></a>
     {%- if site.footer_show_references -%}
       &nbsp;- References on request
     {%- endif -%}
+  </p>
+  <p>
+    <a href="http://stackexchange.com/users/1040348/selcuk-cihan">
+        <img src="http://stackexchange.com/users/flair/1040348.png?theme=clean"
+            width="208" height="58"
+            alt="profile for Sel&#231;uk Cihan on Stack Exchange, a network of free, community-driven Q&amp;A sites"
+            title="profile for Sel&#231;uk Cihan on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
   </p>
 </div>

@@ -1,9 +1,17 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Name Wizard Application
+  github: selcukcihan/namewizard
   quote: >
-    Short overview of the project (optional)
+    - Android application suggesting names for your baby
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    The Name Wizard will suggest names for your baby, from a huge database of names. You can add the ones you like to favorites and decide on the name.
+
+- layout: top-middle
+  name: XFace Talking Head Library
+  github: selcukcihan/xface-j
+  quote: >
+    - Java port of XFace, a 3D talking head library
+  description: | # this will include new lines to allow paragraphs
+    Another hobby project at college (ancient times) aiming to make [XFace](http://xface.fbk.eu/) available to mobile developers for Android. It uses OpenglES and can render a face composed of 2K polygons with a frame rate of 25 FPS.
+ 
