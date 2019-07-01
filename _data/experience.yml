@@ -11,7 +11,7 @@
     * Setup CI/CD pipelines.
     * Mentored developers and reviewed pull requests.
     
-    Technologies: Python, Serverless, Lambda, API Gateway, DynamoDB, Cognito, Datadog
+    Technologies: Python, Serverless, AWS Lambda, Elasticsearch, Docker, .Net core
 
 - layout: left
   company: Toptal
