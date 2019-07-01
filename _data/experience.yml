@@ -21,7 +21,8 @@
   description: | # this will include new lines to allow paragraphs
     * Developed serverless web application on AWS.
     * Created serverless workflows using AWS Step Functions to integrate with external services.
-    * Optimized cost resulting in more than 50% on  and performance on AWS.
+    * Optimized cost resulting in more than 50% saving on AWS bill.
+    * Improved performance by reengineering caching on CloudFront/S3.
     * Mentored developers and reviewed pull requests.
 
     Technologies: Python, Serverless, Lambda, API Gateway, DynamoDB, Cognito, Datadog
