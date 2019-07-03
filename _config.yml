@@ -36,6 +36,8 @@ experience_title: Employment
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
+  <small><q>Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.</q></small>
+
   Comfortable taking on work in any tech stack, though Serverless, Java and Python have been a recurring theme in the past few years for me. For details, have a look at my <a href="/resume/selcukcihan.pdf">Curriculum Vitae</a> <small>(which may refer you to this page, in that case be conscious about the infinite loop you are in or you might never reach out to me!)</small>.
 
   #### Frameworks/Runtimes
@@ -51,12 +53,10 @@ more_content: | # this will include new lines to allow paragraphs
   <mark>Unit Testing</mark> <mark>DevOps</mark> <mark>Agile</mark>
 
   #### Storage Solutions
-  <mark>AWS DynamoDB</mark> <mark>AWS S3</mark> <mark>AWS RDS</mark> <mark>PostgreSQL</mark> <mark>Oracle SQL</mark> <mark>Microsoft SQL Server</mark> <mark>Elasticsearch</mark>
+  <mark>AWS DynamoDB</mark> <mark>AWS S3</mark> <mark>AWS RDS</mark> <mark>PostgreSQL</mark> <mark>Oracle SQL</mark> <mark>Microsoft SQL Server</mark>
 
   #### Miscellaneous
-  <mark>Linux</mark> <mark>Docker</mark>
-
-  <small><code>Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.</code></small>
+  <mark>Linux</mark> <mark>Docker</mark> <mark>Elasticsearch</mark>
 
 # Footer
 footer_show_references: true

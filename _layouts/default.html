@@ -20,6 +20,10 @@
         {%- include education.html -%}
       {%- endif -%}
 
+      {%- if site.data.certification.size > 0 -%}
+        {%- include certification.html -%}
+      {%- endif -%}
+
       {%- if site.more_content -%}
         {%- include more.html -%}
       {%- endif -%}
