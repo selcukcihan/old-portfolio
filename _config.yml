@@ -21,7 +21,7 @@ google_analytics: "UA-68700480-1"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Building (and deprecating) software is my passion, with a focus on scalable backend services in the web ecosystem recently. You will find me most useful in crafting solutions, by putting customer first and ensuring operational excellence. I'm an ex-Amazonian, a **certified AWS solutions architect** and available for hire on <a target="_blank" href="https://www.toptal.com">Toptal</a>.
+  Building (and deprecating) software is my passion, with a focus on scalable backend services in the web ecosystem recently. You will find me most useful in crafting solutions, by putting customer first and ensuring operational excellence. I'm an ex-Amazonian, a **certified AWS solutions architect** and available for hire on <a target="_blank" href="https://www.toptal.com/resume/selcuk-cihan">Toptal</a>. I provide <a target="_blank" href="https://www.bulutla.com">AWS training</a> as well.
 
   Keywords: <mark>AWS</mark> <mark>Serverless</mark> <mark>Python</mark> <mark>Java</mark>
 
