@@ -3,17 +3,18 @@ repository: selcukcihan/selcukcihan.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Selcuk Cihan
+name: Selçuk Cihan
 title: Software Development Engineer
 emailname: selcukcihan
 emaildomain: gmail.com
 keywords: "selcuk, cihan, personal, software, developer, senior, resume, selçuk cihan, engineer, technologist, selcuk cihan, serverless, cloud, architect, amazon, aws"
 
 # Social links
-github_username:  selcukcihan
 linkedin_username: selcukcihan
-stackoverflow: "4281182"
+twitter_username: scihan
 medium: bulut-aws
+stackoverflow: "4281182"
+github_username:  selcukcihan
 
 google_analytics: "UA-68700480-1"
 
