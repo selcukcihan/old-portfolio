@@ -1,6 +1,6 @@
 # Education Template
 - layout: left
-  name: <a href="http://www.cmpe.boun.edu.tr" target="_blank">Bogazici University</a>
+  name: <a href="https://www.cmpe.boun.edu.tr" target="_blank">Bogazici University</a>
   dates: 2003-2008
   qualification: BS. Computer Engineering (3.57/4)
   quote: >
@@ -9,7 +9,7 @@
     Studied wireless networks and computer vision in addition to the foundations of computer science. Graduated Cum Laude.
 
 - layout: left
-  name: <a href="http://www.cmpe.boun.edu.tr" target="_blank">Bogazici University</a>
+  name: <a href="https://www.cmpe.boun.edu.tr" target="_blank">Bogazici University</a>
   dates: 2008-2010
   qualification: MS. Computer Engineering (3.80/4)
 
