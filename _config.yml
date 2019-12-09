@@ -23,12 +23,12 @@ google_analytics: "UA-68700480-1"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Building (and deprecating) software is my passion, with a focus on scalable backend services in the web ecosystem recently.
+  Building (and deprecating) software is my passion.
   I'm an **ex-Amazonian**, a **certified AWS solutions architect** and available for hire on <a target="_blank" href="https://www.toptal.com/resume/selcuk-cihan">Toptal</a>.
   I provide <a target="_blank" href="https://www.bulutla.com">AWS training</a> as well.
   There's also <a target="_blank" href="https://blog.selcukcihan.com">a personal blog</a> - in Turkish - which serves as a notepad for me; documenting problems, solutions and research about software development.
 
-  Keywords: <mark>AWS</mark> <mark>Serverless</mark> <mark>Python</mark> <mark>Java</mark>
+  Keywords: <mark>AWS</mark> <mark>Serverless</mark> <mark>Python</mark> <mark>Java</mark> <mark>Node</mark>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -44,7 +44,8 @@ experience_title: Employment
 more_content: | # this will include new lines to allow paragraphs
   <p style="text-align: center;"><small><q>Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.</q></small></p>
 
-  Comfortable taking on work in *any* tech stack, though Serverless, Java, Python and JavaScript have been a recurring theme in the past few years for me. For details, have a look at my <a href="/resume/selcukcihan.pdf">Curriculum Vitae</a> <small>(which may refer you to this page, in that case be conscious about the infinite loop you are in or you might never reach out to me!)</small>.
+  Comfortable taking on work in *any* tech stack, though Serverless, Java, Python and JavaScript have been recurring themes in the past few years for me.
+  For details, have a look at my <a href="/resume/selcukcihan.pdf">Curriculum Vitae</a> <small>(which may refer you to this page, in that case be conscious about the infinite loop you are in or you might never reach out to me!)</small>.
 
   #### Frameworks/Runtimes
   <mark>Django</mark> <mark>Spring</mark> <mark>Serverless</mark> <mark>Node.js</mark> <mark>React</mark> <mark>Angular</mark>
@@ -53,7 +54,7 @@ more_content: | # this will include new lines to allow paragraphs
   <mark>Java</mark> <mark>Python</mark> <mark>JavaScript</mark> <mark>C#</mark> <mark>Perl</mark>
 
   #### AWS
-  <mark>CloudWatch</mark> <mark>SNS</mark> <mark>Kinesis</mark> <mark>SQS</mark> <mark>Lambda</mark> <mark>Step Functions</mark> <mark>Cognito</mark> <mark>IAM</mark> <mark>CloudFormation</mark> <mark>CloudFront</mark>
+  <mark>CloudWatch</mark> <mark>SNS</mark> <mark>Kinesis</mark> <mark>SQS</mark> <mark>Lambda</mark> <mark>Step Functions</mark> <mark>Cognito</mark> <mark>IAM</mark> <mark>CloudFormation</mark> <mark>CloudFront</mark> <mark>EC2</mark>
 
   #### Paradigms
   <mark>Unit Testing</mark> <mark>DevOps</mark> <mark>Agile</mark>
