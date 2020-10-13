@@ -26,8 +26,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Building (and deprecating) software is my passion.
   I'm an **ex-Amazonian**, a **certified AWS solutions architect** and available for hire on <a target="_blank" href="https://www.toptal.com/resume/selcuk-cihan">Toptal</a>.
-  I provide <a target="_blank" href="https://www.bulutla.com">AWS training</a> as well.
-  There's also <a target="_blank" href="https://blog.selcukcihan.com">a personal blog</a> - in Turkish - which serves as a notepad for me; documenting problems, solutions and research about software development.
 
   Keywords: <mark>AWS</mark> <mark>Serverless</mark> <mark>Python</mark> <mark>Java</mark> <mark>Node</mark>
 
@@ -46,6 +44,7 @@ more_content: | # this will include new lines to allow paragraphs
   <p style="text-align: center;"><small><q>Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.</q></small></p>
 
   Comfortable taking on work in *any* tech stack, though Serverless, Java, Python and JavaScript have been recurring themes in the past few years for me.
+  There's also <a target="_blank" href="https://blog.selcukcihan.com">a personal blog</a> - in Turkish - which serves as a notepad for me; documenting problems, solutions and research about software development.
   For details, have a look at my <a href="/resume/selcukcihan.pdf">Curriculum Vitae</a> <small>(which may refer you to this page, in that case be conscious about the infinite loop you are in or you might never reach out to me!)</small>.
 
   #### Frameworks/Runtimes
