@@ -24,6 +24,8 @@ google_analytics: "UA-68700480-1"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9i1SwJb-D_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   Building (and deprecating) software is my passion.
   As a former Amazonian devoted to helping customers and solving problems, I bring a strong sense of ownership and a track record of delivering results.
   With over four years of experience developing serverless apps on AWS, I have a proven ability to take on technical duties from operations to backend development and architecture.
