@@ -32,6 +32,10 @@
         {%- include more.html -%}
       {%- endif -%}
 
+      {%- if site.data.references.size > 0 -%}
+        {%- include references.html -%}
+      {%- endif -%}
+
     </div>
   </main>
 
