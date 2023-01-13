@@ -11,6 +11,17 @@
           style="width: 50vw; display: block; margin: auto"/>
       </a>
 - layout: left
+  name: <a href="https://sw-news.selcukcihan.com/" target="_blank">Software News</a>
+  description: | # this will include new lines to allow paragraphs
+      Consumes Twitter API to fetch trending software related tweets.
+      Backend is serverless on AWS using Lambda (nodejs) + S3.
+      Frontend is on Vercel using NextJS.
+      <br>
+      <a href="https://sw-news.selcukcihan.com/" target="_blank">
+        <img src="images/sw-news.png" alt="Software News"
+          style="width: 50vw; display: block; margin: auto"/>
+      </a>
+- layout: left
   name: <a href="https://tetris.selcukcihan.com/" target="_blank">Tetris clone</a>
   description: | # this will include new lines to allow paragraphs
       A clone of the original tetris game, implemented using ReactJS.
