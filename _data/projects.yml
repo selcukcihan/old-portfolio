@@ -22,6 +22,18 @@
           style="width: 50vw; display: block; margin: auto"/>
       </a>
 - layout: left
+  name: <a href="https://tweeted-about.selcukcihan.com/" target="_blank">Tweeted About</a>
+  description: | # this will include new lines to allow paragraphs
+      Determines topics for a twitter user's tweets and presents them in an infographic.
+      Backend is serverless on AWS using API Gateway + Lambda (nodejs) + S3.
+      Frontend is on Vercel using NextJS.
+      Authentication is handled by Auth0.
+      <br>
+      <a href="https://tweeted-about.selcukcihan.com/" target="_blank">
+        <img src="images/tweeted-about.png" alt="Tweeted About"
+          style="width: 50vw; display: block; margin: auto"/>
+      </a>
+- layout: left
   name: <a href="https://tetris.selcukcihan.com/" target="_blank">Tetris clone</a>
   description: | # this will include new lines to allow paragraphs
       A clone of the original tetris game, implemented using ReactJS.
