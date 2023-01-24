@@ -19,7 +19,7 @@
       <br>
       <a href="https://sw-news.selcukcihan.com/" target="_blank">
         <img src="images/sw-news.png" alt="Software News"
-          style="width: 50vw; display: block; margin: auto"/>
+          style="width: 30vw; display: block;"/>
       </a>
 - layout: left
   name: <a href="https://tweeted-about.selcukcihan.com/" target="_blank">Tweeted About</a>
@@ -31,7 +31,7 @@
       <br>
       <a href="https://tweeted-about.selcukcihan.com/" target="_blank">
         <img src="images/tweeted-about.png" alt="Tweeted About"
-          style="width: 50vw; display: block; margin: auto"/>
+          style="width: 30vw; display: block;"/>
       </a>
 - layout: left
   name: <a href="https://tetris.selcukcihan.com/" target="_blank">Tetris clone</a>
@@ -40,5 +40,5 @@
       <br>
       <a href="https://tetris.selcukcihan.com/" target="_blank">
         <img src="images/tetris.png" alt="Tetris clone using ReactJS"
-          style="width: 15vw; display: block; margin: auto"/>
+          style="width: 15vw; display: block;"/>
       </a>
