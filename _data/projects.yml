@@ -34,6 +34,18 @@
           style="width: 30vw; display: block;"/>
       </a>
 - layout: left
+  name: <a href="https://twitter-bio-generator.selcukcihan.com/" target="_blank">Twitter Bio Generator</a>
+  description: | # this will include new lines to allow paragraphs
+      Writes an alternative bio for Twitter users, using OpenAI API.
+      Backend is serverless on AWS using API Gateway + Lambda (nodejs) + S3.
+      Frontend is on Vercel using NextJS.
+      Authentication is handled by Auth0.
+      <br>
+      <a href="https://twitter-bio-generator.selcukcihan.com/" target="_blank">
+        <img src="images/twitter-bio-generator.png" alt="Twitter Bio Generator"
+          style="width: 30vw; display: block;"/>
+      </a>
+- layout: left
   name: <a href="https://tetris.selcukcihan.com/" target="_blank">Tetris clone</a>
   description: | # this will include new lines to allow paragraphs
       A clone of the original tetris game, implemented using ReactJS.
