@@ -1,6 +1,18 @@
 # Experience template
 
 - layout: left
+  company: Serverless
+  link: www.serverless.com
+  job_title: Software Engineer
+  dates: 2023 -
+  description: | # this will include new lines to allow paragraphs
+    * Created the Python AWS Lambda SDK for <a href="https://console.serverless.com" target="_blank">Serverless Console</a>, which is an observability platform for applications running on AWS Lambda.
+    * Implemented CI/CD flows on github actions.
+    * Automated tests that validate end to end business logic and performance.
+
+    Technologies: Python, Serverless, Lambda, AWS
+
+- layout: left
   company: Scriber
   link: www.scriber.to
   job_title: Senior Software Engineer
