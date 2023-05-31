@@ -46,6 +46,12 @@ ul.icons a {
   }
 }
 
+.with-border {
+  border: solid 2px #333;
+  border-radius: 4px;
+  box-shadow: 4px 4px 4px 2px #40414a;
+}
+
 .header-right p {
   margin-bottom: 3px;
 }

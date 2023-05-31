@@ -90,26 +90,3 @@
     * Served as scrum master and mentored junior developers.
 
     Tech stack: Microsoft .NET, C#, WinForms, WPF, Oracle
-
-- layout: left
-  company: AirTies
-  link: www.airties.com
-  job_title: Embedded Software Engineer
-  dates: 2010 - 2011
-  description: | # this will include new lines to allow paragraphs
-    * Implemented Teletext for the IPTV set-top box using C++.
-    * Developed a subtitle parser in C.
-    * Implemented a high-performance transport stream parser in C.
-
-    Tech stack: C, C++, Busybox, Linux, RTSP, IPTV, Python, Perl, Teletext
-
-- layout: left
-  company: CC Soft
-  job_title: Software Engineer
-  dates: 2009
-  description: | # this will include new lines to allow paragraphs
-    * Designed and implemented a cross-platform desktop client in C++ utilizing wxWidgets GUI toolkit. The client database is SQLite.
-    * Designed and implemented the corresponding backup server in Java (J2SE). An application-level protocol is implemented for client-server communication, secured via SSL (OpenSSL). Stored files are encrypted (AES).
-    * Designed (visual design excluded) and implemented a web portal for serving online backup users. Users can download/browse backed up files through the portal. MySQL, Apache web server, and django framework are utilized.
-
-    Tech stack: Java, C++, wxWidgets, Python, Django, wxPython, OpenSSL, MySQL, Apache web server, Django, SQLite

@@ -28,7 +28,6 @@ about_content: | # this will include new lines to allow paragraphs
   As a former Amazonian devoted to helping customers and solving problems, I bring a strong sense of ownership and a track record of delivering results.
   With over four years of experience developing serverless apps on AWS, I have a proven ability to take on technical duties from operations to development and architecture.
   I'm a certified AWS solutions architect, who has worked as part of globally distributed teams of engineers in the past few years.
-  I am confident that my background and expertise make me a valuable asset to any team.
 
   Keywords: <mark>AWS</mark> <mark>Serverless</mark> <mark>TypeScript</mark> <mark>Python</mark> <mark>NodeJS</mark>
 
@@ -52,16 +51,16 @@ more_content: | # this will include new lines to allow paragraphs
   You can also watch me introduce myself on <a target="_blank" href="https://www.youtube.com/watch?v=9i1SwJb-D_8">youtube</a>.
 
   #### Frameworks/Runtimes
-  <mark>NodeJS</mark> <mark>Serverless</mark> <mark>NestJS</mark> <mark>Django</mark> <mark>Spring</mark> <mark>React</mark> <mark>Angular</mark>
+  <mark>NodeJS</mark> <mark>Serverless</mark> <mark>Next.js</mark> <mark>React</mark> <mark>Angular</mark> <mark>NestJS</mark> <mark>Django</mark> <mark>Flask</mark> <mark>Spring</mark>
 
   #### Languages
-  <mark>TypeScript</mark> <mark>Python</mark> <mark>JavaScript</mark> <mark>Java</mark> <mark>C#</mark> <mark>Perl</mark>
+  <mark>TypeScript</mark> <mark>Python</mark> <mark>JavaScript</mark> <mark>Java</mark> <mark>C#</mark> <mark>Perl</mark> <mark>C</mark> <mark>C++</mark>
 
   #### AWS
   <mark>Lambda</mark> <mark>AppSync</mark> <mark>API Gateway</mark> <mark>EventBridge</mark> <mark>CloudWatch</mark> <mark>SNS</mark> <mark>Kinesis</mark> <mark>SQS</mark> <mark>Step Functions</mark> <mark>Cognito</mark> <mark>IAM</mark> <mark>CloudFormation</mark> <mark>CloudFront</mark> <mark>EC2</mark> <mark>Athena</mark> <mark>Route53</mark>
 
   #### Paradigms
-  <mark>DevOps</mark> <mark>Agile</mark>
+  <mark>CI/CD</mark> <mark>Operational excellence</mark> <mark>Agile</mark>
 
   #### Storage Solutions
   <mark>AWS DynamoDB</mark> <mark>AWS S3</mark> <mark>AWS RDS</mark> <mark>PostgreSQL</mark> <mark>Oracle SQL</mark> <mark>Microsoft SQL Server</mark>
