@@ -161,6 +161,21 @@ body {
   }
 }
 
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  font-size: medium;
+  padding: 15px;
+}
+
+[id]::before {
+  content: '';
+  display: block;
+  height:      130px;
+  margin-top: -130px;
+  visibility: hidden;
+}
+
 .header-container {
   position: sticky;
   top: 0px;
