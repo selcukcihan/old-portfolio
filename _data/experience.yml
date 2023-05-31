@@ -6,7 +6,7 @@
   job_title: Software Engineer
   dates: 2023 -
   description: | # this will include new lines to allow paragraphs
-    * Created the Python AWS Lambda SDK for <a href="https://console.serverless.com" target="_blank">Serverless Console</a>, which is an observability platform for applications running on AWS Lambda.
+    * Created the Python AWS Lambda SDK for <a title="Serverless Console" href="https://console.serverless.com" target="_blank">Serverless Console</a>, which is an observability platform for applications running on AWS Lambda.
     * Implemented CI/CD flows on github actions.
     * Automated tests that validate end to end business logic and performance.
 
@@ -18,7 +18,7 @@
   job_title: Senior Software Engineer
   dates: 2021 - 2022
   description: | # this will include new lines to allow paragraphs
-    * Created the serverless GraphQL backend for <a href="https://scriber.to" target="_blank">scriber.to</a>, which is a platform for financial writers.
+    * Created the serverless GraphQL backend for <a title="Scriber" href="https://scriber.to" target="_blank">scriber.to</a>, which is a platform for financial writers.
     * Implemented payments with Stripe Connect.
     * Built analytics application to provide the financial writers with KPIs.
 
@@ -30,9 +30,9 @@
   job_title: Senior Software Engineer
   dates: 2019 - 2021
   description: | # this will include new lines to allow paragraphs
-    * Created the API and step functions orchestrator that forms the machine learning pipeline for <a href="https://parsel.ai" target="_blank">parsel.ai</a>, which is a machine learning SAAS offering.
-    * Implemented serverless workflows for ingesting 3rd party financial articles for <a href="https://tellimer.com" target="_blank">tellimer.com</a>.
-    * Architected an article recommender and an article summarizer for <a href="https://tellimer.com" target="_blank">tellimer.com</a>.
+    * Created the API and step functions orchestrator that forms the machine learning pipeline for <a title="Parsel" href="https://parsel.ai" target="_blank">parsel.ai</a>, which is a machine learning SAAS offering.
+    * Implemented serverless workflows for ingesting 3rd party financial articles for <a title="Tellimer" href="https://tellimer.com" target="_blank">tellimer.com</a>.
+    * Architected an article recommender and an article summarizer for <a title="Tellimer" href="https://tellimer.com" target="_blank">tellimer.com</a>.
     * Integrated with Stripe for SAAS subscriptions.
     * Built a serverless app that periodically maintains the sitemap for various web apps.
     * Created GraphQL APIs with AppSync, connecting various data sources like DynamoDB & RDS.
@@ -76,7 +76,7 @@
   description: | # this will include new lines to allow paragraphs
     * Supported the workflow engine (C#, Windows service) serving banking applications such as loans, customer complaints etc.
     * Set up elastic to index workflow engine documents, enabling powerful search mechanisms for the end user.
-    * Designed and implemented a workforce management system that empowers the bank's operation center. The application uses Microsoft's solver foundation to solve the task assignment problem. This project got <a href="https://www.bai.org/globalinnovations/awards/past-winners/winners-2017/2017-internal-process-innovation-award" target="_blank">BAI global innovation award.</a>
+    * Designed and implemented a workforce management system that empowers the bank's operation center. The application uses Microsoft's solver foundation to solve the task assignment problem. This project got <a title="BAI Awards" href="https://www.bai.org/globalinnovations/awards/past-winners/winners-2017/2017-internal-process-innovation-award" target="_blank">BAI global innovation award.</a>
 
     Tech stack: Microsoft .Net, C#, MSSQL, ElasticSearch, REST, Agile, Unit testing, JavaScript, DevOps
 

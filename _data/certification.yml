@@ -2,8 +2,8 @@
 - layout: left
   name: AWS Certified Solutions Architect Professional
   description: | # this will include new lines to allow paragraphs
-      <a href="https://www.credly.com/badges/f2b93002-0754-4e37-8d31-031d2d520ee3" target="_blank"><img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" style="height:180px;width:180px;"></a>
+      <a href="https://www.credly.com/badges/f2b93002-0754-4e37-8d31-031d2d520ee3" target="_blank" title="AWS Certified Solutions Architect Professional"><img alt="AWS Certified Solutions Architect Professional" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" style="height:180px;width:180px;"></a>
 - layout: left
   name: AWS Certified Developer Associate
   description: | # this will include new lines to allow paragraphs
-      <a href="https://www.credly.com/earner/earned/badge/3fb06d81-a97f-4182-ada1-bdcc221152de" target="_blank"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" style="height:180px;width:180px;"></a>
+      <a href="https://www.credly.com/earner/earned/badge/3fb06d81-a97f-4182-ada1-bdcc221152de" target="_blank" title="AWS Certified Developer Associate"><img alt="AWS Certified Developer Associate" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" style="height:180px;width:180px;"></a>

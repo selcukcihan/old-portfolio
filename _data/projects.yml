@@ -1,56 +1,56 @@
 # Projects Template
 - layout: left
-  name: <a href="https://twheat-map.selcukcihan.com/" target="_blank">Twitter friends map</a>
+  name: <a title="Personal project" href="https://twheat-map.selcukcihan.com/" target="_blank">Twitter friends map</a>
   description: | # this will include new lines to allow paragraphs
       Consumes Twitter API to fetch locations of your friends on Twitter.
       Backend is serverless on AWS API Gateway + Lambda (nodejs).
       Frontend is ReactJS.
       <br>
-      <a href="https://twheat-map.selcukcihan.com/" target="_blank">
-        <img src="images/twitter-map.png" alt="Twitter friends heat map"
+      <a title="Personal project" href="https://twheat-map.selcukcihan.com/" target="_blank">
+        <img alt="Personal project" src="images/twitter-map.png" alt="Twitter friends heat map"
           style="width: 50vw; display: block; margin: auto"/>
       </a>
 - layout: left
-  name: <a href="https://sw-news.selcukcihan.com/" target="_blank">Software News</a>
+  name: <a title="Personal project" href="https://sw-news.selcukcihan.com/" target="_blank">Software News</a>
   description: | # this will include new lines to allow paragraphs
       Consumes Twitter API to fetch trending software related tweets.
       Backend is serverless on AWS using Lambda (nodejs) + S3.
       Frontend is on Vercel using NextJS.
       <br>
-      <a href="https://sw-news.selcukcihan.com/" target="_blank">
-        <img src="images/sw-news.png" alt="Software News"
+      <a title="Personal project" href="https://sw-news.selcukcihan.com/" target="_blank">
+        <img alt="Personal project" src="images/sw-news.png" alt="Software News"
           style="width: 30vw; display: block;"/>
       </a>
 - layout: left
-  name: <a href="https://tweeted-about.selcukcihan.com/" target="_blank">Tweeted About</a>
+  name: <a title="Personal project" href="https://tweeted-about.selcukcihan.com/" target="_blank">Tweeted About</a>
   description: | # this will include new lines to allow paragraphs
       Determines topics for a twitter user's tweets and presents them in an infographic.
       Backend is serverless on AWS using API Gateway + Lambda (nodejs) + S3.
       Frontend is on Vercel using NextJS.
       Authentication is handled by Auth0.
       <br>
-      <a href="https://tweeted-about.selcukcihan.com/" target="_blank">
-        <img src="images/tweeted-about.png" alt="Tweeted About"
+      <a title="Personal project" href="https://tweeted-about.selcukcihan.com/" target="_blank">
+        <img alt="Personal project" src="images/tweeted-about.png" alt="Tweeted About"
           style="width: 30vw; display: block;"/>
       </a>
 - layout: left
-  name: <a href="https://twitter-bio-generator.selcukcihan.com/" target="_blank">Twitter Bio Generator</a>
+  name: <a title="Personal project" href="https://twitter-bio-generator.selcukcihan.com/" target="_blank">Twitter Bio Generator</a>
   description: | # this will include new lines to allow paragraphs
       Writes an alternative bio for Twitter users, using OpenAI API.
       Backend is serverless on AWS using API Gateway + Lambda (nodejs) + S3.
       Frontend is on Vercel using NextJS.
       Authentication is handled by Auth0.
       <br>
-      <a href="https://twitter-bio-generator.selcukcihan.com/" target="_blank">
-        <img src="images/twitter-bio-generator.png" alt="Twitter Bio Generator"
+      <a title="Personal project" href="https://twitter-bio-generator.selcukcihan.com/" target="_blank">
+        <img alt="Personal project" src="images/twitter-bio-generator.png" alt="Twitter Bio Generator"
           style="width: 30vw; display: block;"/>
       </a>
 - layout: left
-  name: <a href="https://tetris.selcukcihan.com/" target="_blank">Tetris clone</a>
+  name: <a title="Personal project" href="https://tetris.selcukcihan.com/" target="_blank">Tetris clone</a>
   description: | # this will include new lines to allow paragraphs
       A clone of the original tetris game, implemented using ReactJS.
       <br>
-      <a href="https://tetris.selcukcihan.com/" target="_blank">
-        <img src="images/tetris.png" alt="Tetris clone using ReactJS"
+      <a title="Personal project" href="https://tetris.selcukcihan.com/" target="_blank">
+        <img alt="Personal project" src="images/tetris.png" alt="Tetris clone using ReactJS"
           style="width: 15vw; display: block;"/>
       </a>

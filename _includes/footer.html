@@ -2,6 +2,7 @@
   <p>
     {{ site.name | escape }} -
     <a href="#" class="cryptedmail"
+                   title="Email link"
                    data-name="{{site.emailname}}"
                    data-domain="{{site.emaildomain}}"
                    onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain; return false;"></a>
