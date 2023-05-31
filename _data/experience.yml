@@ -10,7 +10,7 @@
     * Implemented CI/CD flows on github actions.
     * Automated tests that validate end to end business logic and performance.
 
-    Technologies: Python, Serverless, Lambda, AWS
+    Tech stack: Python, Serverless, Lambda, AWS
 
 - layout: left
   company: Scriber
@@ -22,7 +22,7 @@
     * Implemented payments with Stripe Connect.
     * Built analytics application to provide the financial writers with KPIs.
 
-    Technologies: TypeScript, Serverless, Lambda, AppSync, DynamoDB, RDS, Stripe, EventBridge
+    Tech stack: TypeScript, Serverless, Lambda, AppSync, DynamoDB, RDS, Stripe, EventBridge
 
 - layout: left
   company: Tellimer
@@ -38,7 +38,7 @@
     * Created GraphQL APIs with AppSync, connecting various data sources like DynamoDB & RDS.
     * Created serverless workflows using AWS Step Functions to integrate with external services.
 
-    Technologies: TypeScript, Python, Serverless, Lambda, API Gateway, DynamoDB, Stripe, EventBridge, AppSync, Cognito, Datadog
+    Tech stack: TypeScript, Python, Serverless, Lambda, API Gateway, DynamoDB, Stripe, EventBridge, AppSync, Cognito, Datadog
 
 - layout: left
   company: Toptal
@@ -52,7 +52,7 @@
     * Improved performance by reengineering caching on CloudFront/S3.
     * Mentored developers and reviewed pull requests.
 
-    Technologies: Python, Serverless, Lambda, API Gateway, DynamoDB, VPC, SQS, CloudWatch, S3, CloudFront
+    Tech stack: Python, Serverless, Lambda, API Gateway, DynamoDB, VPC, SQS, CloudWatch, S3, CloudFront
 
 - layout: left
   company: Amazon
@@ -66,7 +66,7 @@
     * Supported the reconciliation engine (Java 8) that generates the retail catalog.
     * Carried out live migrations of several web services without downtime. Successfully deprecated multiple legacy services in an effort to simplify the overall architecture and enable catalog growth.
 
-    Technologies: Java, Perl, AWS, Node.js, Linux, Spring, Agile, DevOps, PostgreSQL, ElasticSearch, JavaScript, Docker
+    Tech stack: Java, Perl, AWS, Node.js, Linux, Spring, Agile, DevOps, PostgreSQL, ElasticSearch, JavaScript, Docker
 
 - layout: left
   company: Intertech
@@ -78,7 +78,7 @@
     * Set up elastic to index workflow engine documents, enabling powerful search mechanisms for the end user.
     * Designed and implemented a workforce management system that empowers the bank's operation center. The application uses Microsoft's solver foundation to solve the task assignment problem. This project got <a href="https://www.bai.org/globalinnovations/awards/past-winners/winners-2017/2017-internal-process-innovation-award" target="_blank">BAI global innovation award.</a>
 
-    Technologies: Microsoft .Net, C#, MSSQL, ElasticSearch, REST, Agile, Unit testing, JavaScript, DevOps
+    Tech stack: Microsoft .Net, C#, MSSQL, ElasticSearch, REST, Agile, Unit testing, JavaScript, DevOps
 
 - layout: left
   company: Ziraat Teknoloji
@@ -89,7 +89,7 @@
     * Designed and implemented workflow engine running on top of Oracle, serving over 100,000 workflow instances daily.
     * Served as scrum master and mentored junior developers.
 
-    Technologies: Microsoft .NET, C#, WinForms, WPF, Oracle
+    Tech stack: Microsoft .NET, C#, WinForms, WPF, Oracle
 
 - layout: left
   company: AirTies
@@ -101,7 +101,7 @@
     * Developed a subtitle parser in C.
     * Implemented a high-performance transport stream parser in C.
 
-    Technologies: C, C++, Busybox, Linux, RTSP, IPTV, Python, Perl, Teletext
+    Tech stack: C, C++, Busybox, Linux, RTSP, IPTV, Python, Perl, Teletext
 
 - layout: left
   company: CC Soft
@@ -112,4 +112,4 @@
     * Designed and implemented the corresponding backup server in Java (J2SE). An application-level protocol is implemented for client-server communication, secured via SSL (OpenSSL). Stored files are encrypted (AES).
     * Designed (visual design excluded) and implemented a web portal for serving online backup users. Users can download/browse backed up files through the portal. MySQL, Apache web server, and django framework are utilized.
 
-    Technologies: Java, C++, wxWidgets, Python, Django, wxPython, OpenSSL, MySQL, Apache web server, Django, SQLite
+    Tech stack: Java, C++, wxWidgets, Python, Django, wxPython, OpenSSL, MySQL, Apache web server, Django, SQLite
