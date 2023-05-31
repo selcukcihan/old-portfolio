@@ -154,7 +154,7 @@ body {
   text-align: center; }
 
 .container {
-  margin-top:30px;
+  margin-top: 30px;
 
   @media print {
     margin-top: 20px;
@@ -162,7 +162,13 @@ body {
 }
 
 .header-contianer {
-  margin-top:50px;
+  position: sticky;
+  top: 0px;
+  padding-top:25px;
+  padding-bottom:25px;
+  margin-bottom: 25px;
+  z-index: 1000;
+  background-color: #FFFFFF;
 }
 
 .header-right {
@@ -170,7 +176,7 @@ body {
 }
 
 .header-left {
-  margin-top: 30px;
+  margin-top: 15px;
 
   @media print {
     margin-top: 0px;
