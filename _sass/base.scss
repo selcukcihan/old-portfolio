@@ -161,14 +161,15 @@ body {
   }
 }
 
-.header-contianer {
+.header-container {
   position: sticky;
   top: 0px;
-  padding-top:25px;
-  padding-bottom:25px;
+  padding:25px;
   margin-bottom: 25px;
+
+
   z-index: 1000;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .header-right {
