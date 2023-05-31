@@ -176,15 +176,30 @@ body {
   visibility: hidden;
 }
 
+@media screen and (max-width: 768px) {
+  [id]::before {
+    content: '';
+    display: block;
+    height:      240px;
+    margin-top: -240px;
+    visibility: hidden;
+  }
+}
+
 .header-container {
   position: sticky;
   top: 0px;
   padding:25px;
   margin-bottom: 25px;
 
-
   z-index: 1000;
-  background-color: #ffffff;
+  background-image: linear-gradient(270deg, #fff 0%, #e4e6f8 50%, #fff 100%);
+}
+
+.header-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 .header-right {
@@ -192,7 +207,7 @@ body {
 }
 
 .header-left {
-  margin-top: 15px;
+  text-align: center;
 
   @media print {
     margin-top: 0px;
