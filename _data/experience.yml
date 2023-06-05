@@ -3,7 +3,7 @@
 - layout: left
   company: Serverless
   link: www.serverless.com
-  job_title: Software Engineer
+  job_title: Senior Software Engineer
   dates: 2023 -
   description: | # this will include new lines to allow paragraphs
     * Created the Python AWS Lambda SDK for <a title="Serverless Console" href="https://console.serverless.com" target="_blank">Serverless Console</a>, which is an observability platform for applications running on AWS Lambda.
