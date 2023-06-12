@@ -1,35 +1,25 @@
 # Experience template
 
 - layout: left
-  company: Serverless
-  link: www.serverless.com
-  job_title: Senior Software Engineer
-  dates: 2023 -
+  company: Freelancing
+  dates: 2018 -
   description: | # this will include new lines to allow paragraphs
+    
+    #### [Serverless Inc.](https://serverless.com){:target="_blank"} (2023 - )
     * Created the Python AWS Lambda SDK for <a title="Serverless Console" href="https://console.serverless.com" target="_blank">Serverless Console</a>, which is an observability platform for applications running on AWS Lambda.
     * Implemented CI/CD flows on github actions.
     * Automated tests that validate end to end business logic and performance.
+    * **Tech stack**: *Python, Serverless, Lambda, AWS*
 
-    Tech stack: Python, Serverless, Lambda, AWS
-
-- layout: left
-  company: Scriber
-  link: www.scriber.to
-  job_title: Senior Software Engineer
-  dates: 2021 - 2022
-  description: | # this will include new lines to allow paragraphs
+    ---
+    #### [Scriber](https://scriber.to){:target="_blank"} (2021 - 2022)
     * Created the serverless GraphQL backend for <a title="Scriber" href="https://scriber.to" target="_blank">scriber.to</a>, which is a platform for financial writers.
     * Implemented payments with Stripe Connect.
     * Built analytics application to provide the financial writers with KPIs.
+    * **Tech stack**: *TypeScript, Serverless, Lambda, AppSync, DynamoDB, RDS, Stripe, EventBridge*
 
-    Tech stack: TypeScript, Serverless, Lambda, AppSync, DynamoDB, RDS, Stripe, EventBridge
-
-- layout: left
-  company: Tellimer
-  link: www.tellimer.com
-  job_title: Senior Software Engineer
-  dates: 2019 - 2021
-  description: | # this will include new lines to allow paragraphs
+    ---
+    #### [Tellimer](https://tellimer.com){:target="_blank"} (2019 - 2021)
     * Created the API and step functions orchestrator that forms the machine learning pipeline for <a title="Parsel" href="https://parsel.ai" target="_blank">parsel.ai</a>, which is a machine learning SAAS offering.
     * Implemented serverless workflows for ingesting 3rd party financial articles for <a title="Tellimer" href="https://tellimer.com" target="_blank">tellimer.com</a>.
     * Architected an article recommender and an article summarizer for <a title="Tellimer" href="https://tellimer.com" target="_blank">tellimer.com</a>.
@@ -37,22 +27,16 @@
     * Built a serverless app that periodically maintains the sitemap for various web apps.
     * Created GraphQL APIs with AppSync, connecting various data sources like DynamoDB & RDS.
     * Created serverless workflows using AWS Step Functions to integrate with external services.
+    * **Tech stack**: *TypeScript, Python, Serverless, Lambda, API Gateway, DynamoDB, Stripe, EventBridge, AppSync, Cognito, Datadog*
 
-    Tech stack: TypeScript, Python, Serverless, Lambda, API Gateway, DynamoDB, Stripe, EventBridge, AppSync, Cognito, Datadog
-
-- layout: left
-  company: Toptal
-  link: www.toptal.com
-  job_title: Senior Software Engineer
-  dates: 2018 - 2019
-  description: | # this will include new lines to allow paragraphs
+    ---
+    #### [Toptal](https://toptal.com){:target="_blank"} (2018 - 2019)
     * Worked as the lead backend developer for a non-profit client.
     * Developed a REST API, fully serverless on AWS.
     * Optimized cost resulting in more than 50% saving on AWS bill.
     * Improved performance by reengineering caching on CloudFront/S3.
     * Mentored developers and reviewed pull requests.
-
-    Tech stack: Python, Serverless, Lambda, API Gateway, DynamoDB, VPC, SQS, CloudWatch, S3, CloudFront
+    * **Tech stack**: *Python, Serverless, Lambda, API Gateway, DynamoDB, VPC, SQS, CloudWatch, S3, CloudFront*
 
 - layout: left
   company: Amazon

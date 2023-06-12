@@ -1,21 +1,11 @@
 # Projects Template
 - layout: left
-  name: <a title="Personal project" href="https://twheat-map.selcukcihan.com/" target="_blank">Twitter friends map</a>
-  description: | # this will include new lines to allow paragraphs
-      Consumes Twitter API to fetch locations of your friends on Twitter.
-      Backend is serverless on AWS API Gateway + Lambda (nodejs).
-      Frontend is ReactJS.
-      <br>
-      <a title="Personal project" href="https://twheat-map.selcukcihan.com/" target="_blank">
-        <img alt="Personal project" src="images/twitter-map.png" alt="Twitter friends heat map"
-          style="width: 50vw; display: block; margin: auto"/>
-      </a>
-- layout: left
   name: <a title="Personal project" href="https://sw-news.selcukcihan.com/" target="_blank">Software News</a>
   description: | # this will include new lines to allow paragraphs
       Consumes Twitter API to fetch trending software related tweets.
       Backend is serverless on AWS using Lambda (nodejs) + S3.
       Frontend is on Vercel using NextJS.
+      Unfortunately the news are stale, since Twitter decided to charge for the API consumed by this application.
       <br>
       <a title="Personal project" href="https://sw-news.selcukcihan.com/" target="_blank">
         <img alt="Personal project" src="images/sw-news.png" alt="Software News"
