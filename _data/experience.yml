@@ -2,7 +2,6 @@
 
 - layout: left
   company: Freelancing
-  dates: 2018 -
   description: | # this will include new lines to allow paragraphs
     
     #### [Serverless Inc.](https://serverless.com){:target="_blank"} (2023 - )
